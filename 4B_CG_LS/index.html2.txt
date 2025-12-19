@@ -1,0 +1,30 @@
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>La vie quotidienne</title>
+</head>
+
+<body>
+<h1> La vie quotidienne</h1>
+
+<h2> objets</h2>
+
+<h2> composteur</h2>
+
+<h2> fermeture eclair</h2>
+
+<h2> lave vaisselle</h2>
+
+<h2> machine a ecrire</h2>
+
+<h2> ok google</h2>
+
+<h2> rasoir de surete</h2>
+
+</body>
+
+
+</html>
+
+
