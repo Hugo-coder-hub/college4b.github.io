@@ -1,0 +1,54 @@
+h1
+{font-size: 20px:
+       color: blue;
+background-color: black;
+}
+
+h2
+{font-size: 30px;
+       color: purple;
+text-alig:left;
+background-color:white
+}
+
+html{
+background-color: #00850F;
+}
+
+p
+{font-size: 45px;
+       color:pink;
+padding-left: 50px;
+border: 1px solid grey;
+}
+
+body{
+ width: 1200px;
+ margin: 0 auto;
+ background-color: #FF9500;
+ padding: 0 20px 20px 20px;
+ border: 20px solid black;
+ text-align:center;
+}
+
+img
+{
+ display: block;
+ margin: 0 auto;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
